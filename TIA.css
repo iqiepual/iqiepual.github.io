@@ -1,0 +1,25 @@
+.ap{
+background:url('https://s-media-cache-ak0.pinimg.com/originals/22/04/5b/22045ba266a6dfb51175f32ff52f0ed1.jpg');
+	height:75%;
+	width:100%;
+font-family: 'Macondo', cursive;
+color: purple;
+}
+.video{
+background:url('https://s-media-cache-ak0.pinimg.com/originals/22/04/5b/22045ba266a6dfb51175f32ff52f0ed1.jpg');
+	height:100%;
+	width:100%;
+font-family: 'Macondo', cursive;
+color: purple;
+}
+.h1{
+	background-color: #E0E0E0;
+font-family: 'Macondo', strong;
+color: purple;
+font-size: xx-large;
+}
+.content{
+font-family: 'Bree Serif', serif;
+color: purple;
+font-size: large;
+}

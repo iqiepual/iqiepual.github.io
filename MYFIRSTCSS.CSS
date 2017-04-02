@@ -1,0 +1,47 @@
+h1{
+font-family: 'Macondo', cursive;
+color: purple;
+background-color: #E0E0E0;
+background:url('https://s-media-cache-ak0.pinimg.com/originals/22/04/5b/22045ba266a6dfb51175f32ff52f0ed1.jpg');
+	height:10%;
+	width:100%;
+	display: flex;
+	justify-content: center;
+
+}
+h2{
+font-family: 'Macondo', cursive;
+color: purple;
+background-color: #E0E0E0;
+}
+
+h3{
+font-family: 'Macondo',;
+font-size: xx-large;
+color: purple;
+background:url('https://s-media-cache-ak0.pinimg.com/originals/22/04/5b/22045ba266a6dfb51175f32ff52f0ed1.jpg');
+}
+body{
+	margin:0;
+}
+
+
+.introduction{
+	font-family: 'Bree Serif', serif;
+	color: purple;
+	background:url('https://s-media-cache-ak0.pinimg.com/originals/22/04/5b/22045ba266a6dfb51175f32ff52f0ed1.jpg');
+	height:90%;
+	width:100%;
+	display: flex;
+	justify-content: center;
+}
+.introduction{
+	align-self: center;
+}
+
+
+
+
+p{
+
+}
